@@ -1,5 +1,5 @@
- 👋 Hi, I’m Meet Arora
-   🌱 I’m currently learning react.js
+ -👋 Hi, I’m Meet Arora
+ -🌱 I’m currently learning react.js
  
 
 <!---
