@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetarora10&label=Profile%20views&color=0e75b6&style=flat" alt="meetarora10" /> </p>
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **meet.arora2403@gmail.com**
 
