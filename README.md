@@ -24,8 +24,11 @@
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=meetarora10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=meetarora10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetarora10&show_icons=true&locale=en&layout=compact" alt="meetarora10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetarora10&show_icons=true&locale=en" alt="meetarora10" /></p>
+
 
