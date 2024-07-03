@@ -29,6 +29,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=meetarora10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetarora10&show_icons=true&locale=en&layout=compact" alt="meetarora10" /></p>
-
-
-
+<h3 align="left">My Earned Badges in GSSoC'24 </h3>
