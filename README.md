@@ -26,14 +26,16 @@
 <br>
 <h2 align="center">## GSSOC(24) Badges 🪶</h2>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+<img src="https://github.com/user-attachments/assets/06fc63bf-556a-4e90-b56d-05fdc5e0df08" width="100px" height="100px" />
+    <img src="https://github.com/user-attachments/assets/21299d69-e329-45d7-844d-a01e745b324c" width="100px" height="100px" />
+  
+  <img src="https://github.com/user-attachments/assets/3efaf0ca-3929-4d20-a277-06b66d98beab" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/b85949f5-968c-41ff-a28a-78d7e726cebb" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/fcc2d69c-3638-42d6-b5d3-0f463b7f46b1" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/21299d69-e329-45d7-844d-a01e745b324c" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/6414e873-3f31-41a2-9858-e350ca4be389" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/caeee287-a93d-48c4-a845-334f253200e6" width="105px" height="105px" />
+<img src="https://github.com/user-attachments/assets/f9d75699-d3ef-476e-bf8f-44a3bdc6bda3" width="100px" height="100px" />
 </a>
 </div>
 <br> <br>
