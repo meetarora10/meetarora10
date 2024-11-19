@@ -3,7 +3,8 @@
 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meetarora10&label=Profile%20views&color=0e75b6&style=flat" alt="meetarora10" /> </p>
+<p align="left"> [![GitHub followers](https://img.shields.io/github/followers/meetarora10?label=Follow&style=social)](https://github.com/meetarora10)
+    <img src="https://komarev.com/ghpvc/?username=meetarora10&label=Profile%20views&color=0e75b6&style=flat" alt="meetarora10" /> </p>
 <br/>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -24,6 +25,8 @@
 <br>
 <br>
 <br>
+<h2 align="center">## Hacktoberfest 2024</h2>
+[![An image of @meetarora10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meetarora10)](https://holopin.io/@meetarora10)
 <h2 align="center">## GSSOC(24) Badges 🪶</h2>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://github.com/user-attachments/assets/06fc63bf-556a-4e90-b56d-05fdc5e0df08" width="100px" height="100px" />
